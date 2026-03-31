@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="content-wrap">
+  <div class="content-area">
+    <article class="post-single">
+      <div class="post-date-badge">
+        <span class="month">{{ .Date.Format "January" }}</span>
+        <span class="day">{{ .Date.Format "2" }}</span>
+        <span class="year">{{ .Date.Format "2006" }}</span>
+      </div>
+      {{ with .Params.image }}
+      <div class="post-hero">
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+      </div>
+      {{ end }}
+      <h1 class="post-title">{{ .Title }}</h1>
+      <div class="post-meta single-meta">
+        {{ with .Params.author }}<span class="meta-author"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg> {{ . }}</span>{{ end }}
+        {{ with .Params.categories }}<span class="meta-categories">{{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="{{ printf "/categories/%s/" (urlize $c) }}">{{ $c }}</a>{{ end }}</span>{{ end }}
+      </div>
+      <div class="post-content">
+        {{ .Content }}
+      </div>
+      {{ with .Params.tags }}
+      <div class="post-tags">
+        {{ range . }}
+        <a href="{{ printf "/tags/%s/" (urlize .) }}" class="tag">#{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+      <nav class="post-nav">
+        {{ with .PrevInSection }}<a href="{{ .RelPermalink }}" class="prev">&larr; {{ .Title }}</a>{{ end }}
+        {{ with .NextInSection }}<a href="{{ .RelPermalink }}" class="next">{{ .Title }} &rarr;</a>{{ end }}
+      </nav>
+    </article>
+  </div>
+  {{ partial "sidebar.html" . }}
+</div>
+{{ end }}

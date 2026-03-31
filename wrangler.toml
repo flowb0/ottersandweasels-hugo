@@ -1,0 +1,6 @@
+# Cloudflare Pages configuration
+# Deploy via: Cloudflare Dashboard > Pages > Create project > Connect Git
+# Build settings:
+#   Build command: hugo --minify
+#   Build output directory: public
+#   Environment variable: HUGO_VERSION = 0.157.0

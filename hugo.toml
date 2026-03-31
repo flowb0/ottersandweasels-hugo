@@ -1,0 +1,47 @@
+baseURL = "https://ottersandweasels.com/"
+languageCode = "en-us"
+title = "Otters and Weasels - a Music Blog"
+theme = "ottersandweasels"
+
+[params]
+  description = "we write about music n stuff - music blog from Vienna"
+  author = "ottersandweasels"
+  spotifyUrl = "https://open.spotify.com/user/ottersandweasels"
+  headerImage = "/images/uploads/2013/12/otterweasellogo_wordpress2.jpg"
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Going out in Vienna"
+    url = "/going-out-in-vienna/"
+    weight = 2
+  [[menu.main]]
+    name = "#otterthingstodo"
+    url = "/otterthingstodo/"
+    weight = 3
+  [[menu.main]]
+    name = "OttersAndWeasels on Spotify"
+    url = "/ottersandweasels-on-spotify/"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
