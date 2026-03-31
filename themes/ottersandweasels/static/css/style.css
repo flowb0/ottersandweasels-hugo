@@ -14,10 +14,12 @@
   --color-accent: #d32f2f;
   --color-accent-hover: #b71c1c;
   --color-bg: #f0e8e8;
-  --color-bg-bokeh: radial-gradient(ellipse at 30% 20%, rgba(220, 80, 80, 0.25) 0%, transparent 50%),
-                    radial-gradient(ellipse at 70% 60%, rgba(200, 60, 60, 0.15) 0%, transparent 50%),
-                    radial-gradient(ellipse at 50% 80%, rgba(180, 50, 50, 0.1) 0%, transparent 50%),
-                    linear-gradient(135deg, #e8d5d5 0%, #dbc8c8 50%, #d4bfbf 100%);
+  --color-bg-bokeh: radial-gradient(ellipse at 20% 10%, rgba(210, 120, 120, 0.35) 0%, transparent 40%),
+                    radial-gradient(ellipse at 80% 30%, rgba(190, 80, 80, 0.2) 0%, transparent 45%),
+                    radial-gradient(ellipse at 40% 50%, rgba(140, 180, 170, 0.3) 0%, transparent 50%),
+                    radial-gradient(ellipse at 90% 70%, rgba(60, 40, 60, 0.25) 0%, transparent 45%),
+                    radial-gradient(ellipse at 60% 90%, rgba(40, 30, 50, 0.35) 0%, transparent 50%),
+                    linear-gradient(160deg, #d4a0a0 0%, #c4aaaa 20%, #a8bcb6 45%, #7a8a8a 65%, #4a3a50 85%, #2d1f35 100%);
   --color-surface: #ffffff;
   --color-text: #333333;
   --color-text-light: #666666;
@@ -74,11 +76,12 @@ img {
 /* --- Header --- */
 .site-header {
   text-align: center;
-  padding-top: 1rem;
+  background: #ffffff;
 }
 
 .header-bg {
-  padding: 1.5rem 0;
+  padding: 2rem 0 1.25rem;
+  background: #ffffff;
 }
 
 .header-content {
@@ -94,7 +97,6 @@ img {
   max-height: 260px;
   width: auto;
   margin: 0 auto;
-  filter: drop-shadow(0 4px 12px rgba(0,0,0,0.15));
 }
 
 .site-tagline {
@@ -595,7 +597,7 @@ img {
   text-align: center;
   padding: 2rem 0;
   font-size: 0.8rem;
-  color: var(--color-text-muted);
+  color: rgba(255,255,255,0.6);
 }
 
 /* --- Responsive --- */
