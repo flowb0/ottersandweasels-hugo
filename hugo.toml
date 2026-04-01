@@ -7,7 +7,7 @@ theme = "ottersandweasels"
   description = "we write about music n stuff - music blog from Vienna"
   author = "ottersandweasels"
   spotifyUrl = "https://open.spotify.com/user/ottersandweasels"
-  headerImage = "/images/uploads/2013/12/otterweasellogo_wordpress2.jpg"
+  headerImage = "/images/uploads/2016/06/otterweasellogo_wordpress.jpg"
 
 [pagination]
   pagerSize = 10
