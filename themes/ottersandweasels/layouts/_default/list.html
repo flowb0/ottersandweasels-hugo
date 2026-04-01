@@ -13,18 +13,20 @@
         <span class="day">{{ .Date.Format "2" }}</span>
         <span class="year">{{ .Date.Format "2006" }}</span>
       </div>
-      {{ with .Params.image }}
-      <a href="{{ $.RelPermalink }}" class="post-thumbnail">
-        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
-      </a>
-      {{ end }}
-      <div class="post-card-content">
-        <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <p class="post-excerpt">{{ .Summary | plainify | truncate 200 }}</p>
-        <a href="{{ .RelPermalink }}" class="read-more">Read More &rsaquo;</a>
-        <div class="post-meta">
-          {{ with .Params.author }}<span class="meta-author"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg> {{ . }}</span>{{ end }}
-          {{ with .Params.categories }}<span class="meta-categories">{{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="{{ printf "/categories/%s/" (urlize $c) }}">{{ $c }}</a>{{ end }}</span>{{ end }}
+      <div class="post-card-inner">
+        {{ with .Params.image }}
+        <a href="{{ $.RelPermalink }}" class="post-thumbnail">
+          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy">
+        </a>
+        {{ end }}
+        <div class="post-card-content">
+          <h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          <p class="post-excerpt">{{ .Summary | plainify | truncate 200 }}</p>
+          <a href="{{ .RelPermalink }}" class="read-more">Read More &rsaquo;</a>
+          <div class="post-meta">
+            {{ with .Params.author }}<span class="meta-author"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg> {{ . }}</span>{{ end }}
+            {{ with .Params.categories }}<span class="meta-categories">{{ range $i, $c := . }}{{ if $i }}, {{ end }}<a href="{{ printf "/categories/%s/" (urlize $c) }}">{{ $c }}</a>{{ end }}</span>{{ end }}
+          </div>
         </div>
       </div>
     </article>
