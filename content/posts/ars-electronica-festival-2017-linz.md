@@ -43,7 +43,7 @@ The second deals with our constantly-being-busy attitude, pushing us into consta
 
 But there is a multitude of exhibits and installations to explore in the Postcity, so we can only give a short and ery personal insight:
 
-<!-- gallery -->
+{{< gallery "/images/uploads/2017/09/IMG_5505.jpg" "/images/uploads/2017/09/IMG_5511.jpg" "/images/uploads/2017/09/IMG_5521.jpg" "/images/uploads/2017/09/IMG_5523.jpg" "/images/uploads/2017/09/IMG_5531.jpg" "/images/uploads/2017/09/IMG_5548.jpg" "/images/uploads/2017/09/IMG_5542.jpg" "/images/uploads/2017/09/IMG_5546.jpg" "/images/uploads/2017/09/IMG_5514.jpg" >}}
 
 ### Feminist Climate Change
 

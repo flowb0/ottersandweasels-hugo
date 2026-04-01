@@ -14,7 +14,7 @@ Some other contestants shows/performances appear also quite different than on TV
 
 Here are some pics and ESC Eurovision 2015 final rehearsal impressions.
 
-<!-- gallery -->
+{{< gallery "/images/uploads/2015/05/P1070910.jpg" "/images/uploads/2015/05/P1070908.jpg" "/images/uploads/2015/05/P1070906.jpg" "/images/uploads/2015/05/P1070904.jpg" "/images/uploads/2015/05/P1070901.jpg" "/images/uploads/2015/05/P1070896.jpg" "/images/uploads/2015/05/P1070890.jpg" "/images/uploads/2015/05/P1070884.jpg" "/images/uploads/2015/05/P1070879.jpg" "/images/uploads/2015/05/P1070877.jpg" "/images/uploads/2015/05/P1070872.jpg" "/images/uploads/2015/05/P1070868.jpg" "/images/uploads/2015/05/P1070867.jpg" "/images/uploads/2015/05/P1070863.jpg" "/images/uploads/2015/05/P1070858.jpg" "/images/uploads/2015/05/IMG_3062.jpg" "/images/uploads/2015/05/IMG_3040.jpg" >}}
 
 And here also a very interesting video I found, the in-ear rehearsal for "Rhythm inside", which shows a little bit more of his incredible voice and the co-singers.
 # Loïc Nottet backstage - Soundcheck in Vienna 
