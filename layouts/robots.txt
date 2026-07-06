@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+
+# Core discovery
+Sitemap: {{ "sitemap.xml" | absURL }}
+
+# OpenAI: allow search discovery in ChatGPT search experiences
+User-agent: OAI-SearchBot
+Allow: /
+
+# OpenAI training crawler
+User-agent: GPTBot
+Allow: /
+
+# Common AI/search crawlers
+User-agent: bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /

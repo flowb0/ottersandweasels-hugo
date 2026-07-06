@@ -1,5 +1,6 @@
 baseURL = "https://ottersandweasels.com/"
 languageCode = "en-us"
+enableRobotsTXT = true
 title = "Otters and Weasels - a Music Blog"
 theme = "ottersandweasels"
 
@@ -8,6 +9,7 @@ theme = "ottersandweasels"
   author = "ottersandweasels"
   spotifyUrl = "https://open.spotify.com/user/ottersandweasels"
   headerImage = "/images/uploads/2016/06/otterweasellogo_wordpress.jpg"
+  images = ["/images/uploads/2016/06/otterweasellogo_wordpress.jpg"]
 
 [pagination]
   pagerSize = 10

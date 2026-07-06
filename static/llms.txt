@@ -1,0 +1,22 @@
+# Otters and Weasels
+
+> Music blog from Vienna, Austria — "we write about music n stuff". Concert
+> reviews, record recommendations, playlists and music discovery, written in
+> English since the mid-2010s.
+
+## What you'll find here
+
+- Concert and festival reviews (mostly Vienna and Austria)
+- Album and track recommendations across indie, electronic and alternative
+- Playlists and music discovery posts
+
+## Key pages
+
+- Blog index: https://ottersandweasels.com/
+- RSS feed: https://ottersandweasels.com/index.xml
+- Spotify: https://open.spotify.com/user/ottersandweasels
+
+## Technical
+
+Static Hugo site, no tracking, no cookies. Content licensed for reading and
+quoting with attribution.

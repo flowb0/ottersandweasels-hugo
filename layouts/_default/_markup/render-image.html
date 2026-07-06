@@ -1,0 +1,7 @@
+{{- /* Content images: lazy-load + explicit dimensions for local files (CLS).
+       External images pass through with lazy loading only. */ -}}
+{{- $dims := "" -}}
+{{- if and (hasPrefix .Destination "/") (fileExists (printf "static%s" .Destination)) -}}
+  {{- $dims = imageConfig (printf "static%s" .Destination) -}}
+{{- end -}}
+<img src="{{ .Destination | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async"{{ with $dims }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}>
