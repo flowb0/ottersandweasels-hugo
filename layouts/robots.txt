@@ -1,29 +1,45 @@
 User-agent: *
 Allow: /
 
-# Core discovery
 Sitemap: {{ "sitemap.xml" | absURL }}
+# LLM summary: {{ "llms.txt" | absURL }}
 
-# OpenAI: allow search discovery in ChatGPT search experiences
+# All search engines and AI search/answer/training crawlers are welcome (GEO).
 User-agent: OAI-SearchBot
 Allow: /
 
-# OpenAI training crawler
+User-agent: ChatGPT-User
+Allow: /
+
 User-agent: GPTBot
 Allow: /
 
-# Common AI/search crawlers
-User-agent: bingbot
+User-agent: Claude-SearchBot
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: PerplexityBot
+User-agent: Claude-User
 Allow: /
 
 User-agent: ClaudeBot
 Allow: /
 
-User-agent: anthropic-ai
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: bingbot
 Allow: /

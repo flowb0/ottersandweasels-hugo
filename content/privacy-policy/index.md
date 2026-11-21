@@ -1,4 +1,6 @@
 ---
+description: "Datenschutzerklärung des Musikblogs Otters and Weasels aus Wien: welche Daten beim Besuch der Website verarbeitet werden und deine Rechte."
+htmlLang: "de"
 title: "Privacy Policy"
 date: 2018-05-23T23:38:44
 author: "wayne weasel"
@@ -148,7 +150,7 @@ Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Pi
 ## 
 ## 
 ## Who we are
-Our website address is: https://ottersandweasels.com.
+Our website address is: /.
 ## What personal data we collect and why we collect it
 ### 
 ### 

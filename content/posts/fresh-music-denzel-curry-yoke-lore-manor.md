@@ -32,7 +32,7 @@ Fact Magazine made a very cool mini Documentary. check it out.
 
 {{< youtube "pCecBzMpdpw" >}}
 
-but at least they got [Oddisee](https://www.ottersandweasels.com/oddisee-the-good-company-live-waves-2015/) at the Hip-Hop open this year. So maybe next year, don't forget about Denzel Curry.
+but at least they got [Oddisee](/posts/oddisee-the-good-compny-live-waves-2015/) at the Hip-Hop open this year. So maybe next year, don't forget about Denzel Curry.
 
  
 

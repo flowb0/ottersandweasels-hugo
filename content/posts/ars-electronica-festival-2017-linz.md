@@ -39,7 +39,7 @@ Nyloïd by Cod.Act (c: Christina Gruber)
 
 The second deals with our constantly-being-busy attitude, pushing us into constant presence, which ultimately leads to nothing as studies show that doing nothing is way more productive. This meditative robot sculpture interacts with its viewer by mainly forming patterns. Doing nothing can be so beautiful.
 
-[![Robot, Doing Nothing by Emanuel Gollob (c: Christina Gruber)](/images/uploads/2017/09/Bildschirmfoto-2017-09-11-um-14.34.31-291x300.png)](https://www.ottersandweasels.com/wp-content/uploads/2017/09/Bildschirmfoto-2017-09-11-um-14.34.31.png) Robot, Doing Nothing by Emanuel Gollob (c: Christina Gruber)
+[![Robot, Doing Nothing by Emanuel Gollob (c: Christina Gruber)](/images/uploads/2017/09/Bildschirmfoto-2017-09-11-um-14.34.31-291x300.png)](/images/uploads/2017/09/Bildschirmfoto-2017-09-11-um-14.34.31.png) Robot, Doing Nothing by Emanuel Gollob (c: Christina Gruber)
 
 But there is a multitude of exhibits and installations to explore in the Postcity, so we can only give a short and ery personal insight:
 
@@ -58,7 +58,7 @@ Besides the Postcity there are numerous other venues spread over the whole city 
 ### Gluon Session
 Aside from all the events also conferences, lectures, and workshops take place. At this year's Opening Symposium the [Gluon Session](https://www.aec.at/ai/de/gluon-session/) was held, the curator Hans Ulrich Obrist, art historian Paul Dujardin and Gerfried Stocker were discussing the future role of art and science and active collaborations. In this case that scientists deliberately choose to collaborate with artists to make junctions. These can be between objects, non-objects, people and placement.
 
-[![](/images/uploads/2017/09/IMG_5568-300x225.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2017/09/IMG_5568.jpg) Manthia Diawara per Skype during the Gluon Session (c: Christina Gruber)
+[![](/images/uploads/2017/09/IMG_5568-300x225.jpg)](/images/uploads/2017/09/IMG_5568.jpg) Manthia Diawara per Skype during the Gluon Session (c: Christina Gruber)
 
 My day at the Ars Electronica ended after a short intermezzo in the Mariendom at [L'Enfant](https://www.aec.at/ai/de/lenfant/) with a collaboration between [Breaking The Wall and Chris and Didi Bruckmayr](https://www.aec.at/ai/de/breaking-the-wall/) in the Train Hall. And OFF.
 

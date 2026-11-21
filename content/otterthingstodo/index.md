@@ -1,4 +1,5 @@
 ---
+description: "#otterthingstodo: our hashtag collecting the funky fresh things happening in Vienna – concerts, parties and events."
 title: "#otterthingstodo - What's up in Vienna"
 date: 2014-09-30T22:02:49
 author: "wayne weasel"

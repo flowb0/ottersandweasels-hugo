@@ -13,7 +13,7 @@ As we recently visited the exhibition of Peter Weibel in the [21er Haus](http://
 
  
 
-As well we had the chance to see [a concert](https://www.ottersandweasels.com/rokkos-adventures-feat-dd-kern-philipp-quehenberger/) of Didi Kern and Philipp Quehenberger, when they were performing an exclusive show for the christmas party of [Rokko's Adventures](http://www.rokkosadventures.at/) magazine.
+As well we had the chance to see [a concert](/posts/rokkos-adventures-feat-dd-kern-philipp-quehenberger/) of Didi Kern and Philipp Quehenberger, when they were performing an exclusive show for the christmas party of [Rokko's Adventures](http://www.rokkosadventures.at/) magazine.
 
 The concert in the 21er Haus on the 10th of January 2015 at 7 pm is also a revival of a legendary gig of the band that took place in March 1980 in the [20er Haus](http://www.nextroom.at/building.php?id=2348).
 

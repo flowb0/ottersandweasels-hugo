@@ -10,7 +10,7 @@ slug: "esc-eurovision-semifinal-results-and-new-favorites"
 
 The Semifinals are over and especially the second leg showed the full capacity of the pretty amazing stage built in the Wiener Stadthalle. 27 nations are now ready to compete on Saturday to win the Eurovision Song Contest 2015.
 
-[![final esc](/images/uploads/2015/05/final-esc-300x235.png)](https://www.ottersandweasels.com/wp-content/uploads/2015/05/final-esc.png)
+[![final esc](/images/uploads/2015/05/final-esc-300x235.png)](/images/uploads/2015/05/final-esc.png)
 
 Our favorite so far was **Loïc Nottet** from #BEL Belgium with his song rattatat rattatat ratatatataaaa "Rhythm Inside". But unfortunately his visual team did not put much effort into the light and visual show to use the full potential of the stage + screen & lights.
 

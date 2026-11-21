@@ -80,7 +80,7 @@ homegrown superstar :)
 
  
 
-If you wanna know more about the years before, here are our reviews of [2015](https://www.ottersandweasels.com/waves-music-festival-2015-vienna-and-bratislava-recap/), [2014](https://www.ottersandweasels.com/waves-vienna-music-festival-day2day3/).
+If you wanna know more about the years before, here are our reviews of [2015](/posts/waves-music-festival-2015-vienna-and-bratislava-recap/), [2014](/posts/waves-vienna-music-festival-day2day3/).
 
 Here we have a YouTube Playlist with more Acts of the Waves Vienna Music Festival 2016, you can just skip through and then you know what will go on music-wise at the festival :)
 

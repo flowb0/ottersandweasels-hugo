@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Params.htmlLang | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{ partial "seo-meta.html" . }}
+  <link rel="icon" type="image/jpeg" href="/favicon.jpg">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ $css := resources.Get "css/style.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="{{ "index.xml" | absURL }}">
+  {{ partial "schema.html" . }}
+</head>
+<body>
+  {{ partial "header.html" . }}
+
+  <main class="site-main">
+    <div class="container">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+</html>

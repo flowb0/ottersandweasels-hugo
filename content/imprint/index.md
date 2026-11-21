@@ -1,4 +1,5 @@
 ---
+description: "Imprint of Otters and Weasels, a private music blog from Vienna, Austria."
 title: "imprint"
 date: 2014-09-24T18:33:18
 author: "wayne weasel"

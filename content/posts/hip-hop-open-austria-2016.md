@@ -11,7 +11,7 @@ slug: "hip-hop-open-austria-2016"
 # Hip Hop Open Austria 2016 is coming up
 We are already superpsyched and cannot wait till next Friday the 22nd of July 2016 when the [Hip Hop Open Austria](http://www.hiphopopen.at/) is finally starting at one of the best festival locations in Austria, the [Ottakringer Arena Wiesen](https://www.google.at/search?q=wiesen+festival&espv=2&biw=1280&bih=624&site=webhp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjK-Y6Kq_bNAhXCJhoKHXPLA6AQ_AUIBygC). Hell yeah :)
 
-As we are truly kind of fanboy and fangirl of [Oddisee and his fabulous band Good Compny](https://oddisee.bandcamp.com/), which we covered extensively also at last years [Waves Vienna Festival](https://www.ottersandweasels.com/oddisee-the-good-company-live-waves-2015/), that act alone would be enough for us to go there.
+As we are truly kind of fanboy and fangirl of [Oddisee and his fabulous band Good Compny](https://oddisee.bandcamp.com/), which we covered extensively also at last years [Waves Vienna Festival](/posts/oddisee-the-good-compny-live-waves-2015/), that act alone would be enough for us to go there.
 
 But the two day Hip Hop Festival offers way more than just Oddisee.
 ### Check out the Line up:

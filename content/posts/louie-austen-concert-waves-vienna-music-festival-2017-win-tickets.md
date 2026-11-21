@@ -19,7 +19,7 @@ Usually, it gives the stage to newcomers but also internationally known artists 
 ## Exclusive interview with Louie Austen
 Ottersandweasel had the change to interview Louie Austen, one of the best voices from Austria with worldwide fame. In our opinion, he is one of the most enigmatic nightclub crooners and his performances are unique. They make the audience tremble and are the most exhilarating performances, especially in electronic music.
 
-[![Louie Austen Photoshoot, Great Eastern Hotel, 25th November 2005](/images/uploads/2017/09/LouieAustenGE4-1024x681.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2017/09/LouieAustenGE4.jpg) Louie Austen Photoshoot, Great Eastern Hotel, 25th November 2005
+[![Louie Austen Photoshoot, Great Eastern Hotel, 25th November 2005](/images/uploads/2017/09/LouieAustenGE4-1024x681.jpg)](/images/uploads/2017/09/LouieAustenGE4.jpg) Louie Austen Photoshoot, Great Eastern Hotel, 25th November 2005
 >  
 
 The exclusive interview was held in German, we publish a transcript here:

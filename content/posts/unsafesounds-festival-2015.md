@@ -14,7 +14,7 @@ Here is some music from the curators, so you know what to expect :)
 
 {{< soundcloud "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/207472008&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false" >}}
 
-And [Philipp Quehenberger](https://www.ottersandweasels.com/rokkos-adventures-feat-dd-kern-philipp-quehenberger/) is also playing, hehe, but this time not live (just DJing)
+And [Philipp Quehenberger](/posts/rokkos-adventures-feat-dd-kern-philipp-quehenberger/) is also playing, hehe, but this time not live (just DJing)
 
 So Friday at WUK should be pretty pretty cool with:
 

@@ -8,7 +8,7 @@ image: "/images/uploads/2016/02/ment-festival.png"
 slug: "ment-festival-2016-in-ljubljana"
 ---
 
-From 3rd February till 5th February the wonderful MENT Festival is taking place in the capital of Slovenia Ljubljana. It's a showcase festival like the [Waves Vienna Festival](https://www.ottersandweasels.com/waves-music-festival-2015-vienna-and-bratislava-recap/), so you can expect a ton of supergood small shows of upcoming bands + a few shows of kind of bigger bands. Ljubljana is a supercool city already to hang out [(check it out here)](http://www.tothehinterland.com/en/24h-in-ljubljana-slovenia/), but with this festival, I see no excuses why not to hop on the train and to go there.
+From 3rd February till 5th February the wonderful MENT Festival is taking place in the capital of Slovenia Ljubljana. It's a showcase festival like the [Waves Vienna Festival](/posts/waves-music-festival-2015-vienna-and-bratislava-recap/), so you can expect a ton of supergood small shows of upcoming bands + a few shows of kind of bigger bands. Ljubljana is a supercool city already to hang out [(check it out here)](http://www.tothehinterland.com/en/24h-in-ljubljana-slovenia/), but with this festival, I see no excuses why not to hop on the train and to go there.
 
 Plus the festival ticket it also a steal with just 39,90€ für 3 days of music. For a bit more, 54,90€, you can even get to PRO Pass and gain some music industry knowledge too :)
 

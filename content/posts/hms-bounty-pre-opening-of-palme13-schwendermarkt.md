@@ -20,12 +20,12 @@ Also the Schwendermarkt in the 15th district is going through a phase of change 
 Also a group of students from the **University of Applied Arts** has the chance to warm-up the market booth of the palme13 before there official opening in the middle of June. They will be at the booth from **9.6. - 13.6**. with daily changing meals and lots of more to come.
 
 ![](http://i.giphy.com/Jb90XJYZbZGvK.gif)
-The **HMS Bounty **will capture the booth on the **6th of June** with an opening party starting at **2 pm**. There will be **food, drinks, sculptural and performative interventions** and nice **music** for your well-being. Many of the products come from the ["**Bauernhof Doppler**"](http://www.bauernhofdoppler.com/) and don't miss the chance to check out the "Fensterladen". [**Ottersandweasel**s](https://www.ottersandweasels.com/) will play you some nice summer tunes and there will be also a set of **Bobo Sinclar** and live music from the band **bd** **(blind date)** at 5 pm. So come and spend a lovely saturday with us at the Schwendermarkt!
+The **HMS Bounty **will capture the booth on the **6th of June** with an opening party starting at **2 pm**. There will be **food, drinks, sculptural and performative interventions** and nice **music** for your well-being. Many of the products come from the ["**Bauernhof Doppler**"](http://www.bauernhofdoppler.com/) and don't miss the chance to check out the "Fensterladen". [**Ottersandweasel**s](/) will play you some nice summer tunes and there will be also a set of **Bobo Sinclar** and live music from the band **bd** **(blind date)** at 5 pm. So come and spend a lovely saturday with us at the Schwendermarkt!
 
 **HMS Bounty** is Francesca Aldegani, Hanna Burkart, Phil Corns, Anna Doppler, Sabine Fessler, Ursula Gaisbauer, Christina Gruber, Marlies Gruber, Natalia Gurova, Nora Gutwenger, Katharina Körner, Julia Mag, Mahsa Mahootchi, Benedikt Meixl, Alina Özyurt, Arvydas Umbrasas, Wagner Felipe dos Santos
 
  
 
-[![Bildschirmfoto 2015-06-04 um 1.51.03 PM](/images/uploads/2015/06/Bildschirmfoto-2015-06-04-um-1.51.03-PM-213x300.png)](https://www.ottersandweasels.com/wp-content/uploads/2015/06/Bildschirmfoto-2015-06-04-um-1.51.03-PM.png)
+[![Bildschirmfoto 2015-06-04 um 1.51.03 PM](/images/uploads/2015/06/Bildschirmfoto-2015-06-04-um-1.51.03-PM-213x300.png)](/images/uploads/2015/06/Bildschirmfoto-2015-06-04-um-1.51.03-PM.png)
 
 https://www.youtube.com/watch?v=VBqoxUOddKM&list=PLEdboZpvNQ1DynaX0weF2-bJydhafAzQE&index=1

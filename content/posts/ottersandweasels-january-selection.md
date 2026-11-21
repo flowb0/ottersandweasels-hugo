@@ -9,7 +9,7 @@ slug: "ottersandweasels-january-selection"
 ---
 
 # Our January selection of new music
-[![Otters and Weasels January New Music selection](/images/uploads/2014/02/ottersandweasels-january-selection-300x300.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2014/02/ottersandweasels-january-selection.jpg)
+[![Otters and Weasels January New Music selection](/images/uploads/2014/02/ottersandweasels-january-selection-300x300.jpg)](/images/uploads/2014/02/ottersandweasels-january-selection.jpg)
 
 Here is our monthly selection of new music released -  January 2014 edition. Of course we just picked tracks we like, but maybe you like them too. And possibly you even discover some new tunes and artists you haven't heard of before.
 

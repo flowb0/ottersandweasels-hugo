@@ -1,0 +1,4 @@
+{{- /* WordPress imports contain "# …" headings in the body. The post title is the only H1,
+       so content H1s render as H2 (one H1 per page). */ -}}
+{{- $lvl := .Level }}{{ if eq $lvl 1 }}{{ $lvl = 2 }}{{ end -}}
+<h{{ $lvl }} id="{{ .Anchor }}">{{ .Text | safeHTML }}</h{{ $lvl }}>

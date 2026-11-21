@@ -38,7 +38,7 @@ I guess this is the main point why they won, plus from the visual standpoint the
 
 Let's see how it will turn out with the international opinion, here at the [Eurovision Song Contest Channel on YouTube](https://www.youtube.com/watch?v=duW-PsDbysg) you can already see a bit in which direction it is shifting (Date: 14th of March, 2015)
 
-[![makemakes youtube](/images/uploads/2015/03/makemakes-youtube.png)](https://www.ottersandweasels.com/wp-content/uploads/2015/03/makemakes-youtube.png)
+[![makemakes youtube](/images/uploads/2015/03/makemakes-youtube.png)](/images/uploads/2015/03/makemakes-youtube.png)
 
 BUT if I just look at the song, in my opinion DAWA should have won. Their song is more tricky and got more tiny interesting things going on, and also seemed more "real" to me. Plus it got super earworm quality, just listen two it 2 times in a row and you remember a lot of sections. Do that with the Makemakes and see how much you remember, haha. Unfortunately the arrangement was also a bit weaker (lack of bass) than the one of the Makemakes. Add a hidden bass player to the Chello and a choir with some "uuhhhh uhhhhs" at the right sections and DAWA would have blown the Makemakes out of the studio ;) I guess I should become ORF Eurovision Song Contest coach, muuuuaahhahaha.
 

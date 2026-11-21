@@ -1,22 +1,173 @@
 # Otters and Weasels
 
-> Music blog from Vienna, Austria — "we write about music n stuff". Concert
-> reviews, record recommendations, playlists and music discovery, written in
-> English since the mid-2010s.
+> Music blog from Vienna, Austria, founded 2013 ("we write about music n stuff"). Concert tips and reviews, festivals (Waves Vienna, Popfest, Donaukanaltreiben, Ars Electronica), new releases, music videos, Eurovision coverage and going-out tips for Vienna. Written in English, mostly 2013–2018.
 
-## What you'll find here
-
-- Concert and festival reviews (mostly Vienna and Austria)
-- Album and track recommendations across indie, electronic and alternative
-- Playlists and music discovery posts
+Please cite canonical ottersandweasels.com URLs and mention the post date — event details are historical.
 
 ## Key pages
 
-- Blog index: https://ottersandweasels.com/
-- RSS feed: https://ottersandweasels.com/index.xml
+- [Home / latest posts](https://ottersandweasels.com/)
+- [Going out in Vienna](https://ottersandweasels.com/going-out-in-vienna/)
+- [#otterthingstodo](https://ottersandweasels.com/otterthingstodo/)
+- [Eurovision](https://ottersandweasels.com/eurovision/)
+- [Otters and Weasels on Spotify](https://ottersandweasels.com/ottersandweasels-on-spotify/)
+- [About](https://ottersandweasels.com/about/)
+- [All categories](https://ottersandweasels.com/categories/)
+- [RSS feed](https://ottersandweasels.com/index.xml)
+
+## Concerts (31 posts)
+
+- [Waves Vienna 2018 - review](https://ottersandweasels.com/posts/waves-vienna-2018-review/) — 2018-10-12
+- [Waves Vienna 2018 - the inner city music festival](https://ottersandweasels.com/posts/waves-vienna-2018-the-inner-city-music-festival/) — 2018-09-19
+- [Waves Vienna 2017 - inner city music festival](https://ottersandweasels.com/posts/waves-vienna-2017-inner-city-music-festival/) — 2017-09-24
+- [Waves Vienna Music Festival 2016 is coming up](https://ottersandweasels.com/posts/waves-vienna-music-festival-2016-is-coming-up/) — 2016-09-27
+- [It's all about the meat baby - Ottersandweasels DJ Set - 1st of August](https://ottersandweasels.com/posts/meat-baby-ottersandweasels-dj-set/) — 2016-07-30
+- [Popfest 2016](https://ottersandweasels.com/posts/popfest-2016/) — 2016-07-27
+- [Hip Hop Open Austria 2016 review](https://ottersandweasels.com/posts/hip-hop-open-austria-2016-review/) — 2016-07-27
+- [Hip Hop Open Austria 2016](https://ottersandweasels.com/posts/hip-hop-open-austria-2016/) — 2016-07-15
+- [Alessandro Cortini Live at Grelle Forelle (ex NINE INCH NAILS)](https://ottersandweasels.com/posts/alessandro-cortini-live-grelle-forelle/) — 2016-06-03
+- [Svavar Knutur in Vienna - Concert](https://ottersandweasels.com/posts/svavar-knutur-in-vienna-concert/) — 2016-02-08
+- [Waves Music Festival 2015 - Vienna and Bratislava recap](https://ottersandweasels.com/posts/waves-music-festival-2015-vienna-and-bratislava-recap/) — 2015-10-15
+- [Oddisee & good compny LIVE - Waves 2015](https://ottersandweasels.com/posts/oddisee-the-good-compny-live-waves-2015/) — 2015-10-06
+- [Baits EP release party](https://ottersandweasels.com/posts/baits-ep-release-party/) — 2015-09-12
+- [Popfest 2015 review kind of](https://ottersandweasels.com/posts/popfest-2015-review-kind-of/) — 2015-07-31
+- [Popfest 2015](https://ottersandweasels.com/posts/popfest-2015/) — 2015-07-24
+- [And so I watch you from afar - live in Vienna](https://ottersandweasels.com/posts/and-so-i-watch-you-from-afar-live-in-vienna/) — 2015-05-22
+- [Like Elephants EP Release and Baits Live](https://ottersandweasels.com/posts/like-elephants-ep-release-and-baits-live/) — 2015-05-11
+- [Donaufestival 2015 - Nils Frahm](https://ottersandweasels.com/posts/donaufestival-2015-nils-frahm/) — 2015-05-01
+- [Rokkos Adventures Weihnachtskonzert feat. DD Kern & Philipp Quehenberger](https://ottersandweasels.com/posts/rokkos-adventures-feat-dd-kern-philipp-quehenberger/) — 2015-01-07
+- [Beatmaker Sessions Compilaton Vol.3 – Release + big Party](https://ottersandweasels.com/posts/beatmaker-sessions-compilaton-vol-3/) — 2014-12-18
+- [Waves Vienna Music Festival-Day 1](https://ottersandweasels.com/posts/waves14-day-1/) — 2014-10-06
+- [Waves Vienna Music Festival](https://ottersandweasels.com/posts/waves-vienna-music-festival/) — 2014-09-28
+- [Warp25 - recap](https://ottersandweasels.com/posts/warp25-recap/) — 2014-09-25
+- [Hook+Loop Release party](https://ottersandweasels.com/posts/hookloop-release-party/) — 2014-09-24
+- [Kunst am Kanal 2014](https://ottersandweasels.com/posts/kunst-am-kanal-2014/) — 2014-08-07
+- [Some good Live music - SNOFFELTOFFS + LIMES](https://ottersandweasels.com/posts/good-live-music-snoffeltoffs-limes/) — 2014-07-16
+- [BOMBAY BICYCLE CLUB playing Arena tonight](https://ottersandweasels.com/posts/bombay-bicycle-club-playing-arena-tonight/) — 2014-06-22
+- [The Vienna Underground Sound - Beatmaker Sessions LIVE Party](https://ottersandweasels.com/posts/vienna-underground-sound-beatmaker-sessions-live-party/) — 2014-05-28
+- [Ellis and Vague in concert - 13.05.14 at Das Bach](https://ottersandweasels.com/posts/ellis-vague-concert-13-05-14-das-bach/) — 2014-05-11
+- [Art's Birthday Party 2014](https://ottersandweasels.com/posts/arts-birthday-party-2014/) — 2014-01-17
+- [I Used to Be Darker](https://ottersandweasels.com/posts/used-darker/) — 2014-01-09
+
+## Events (14 posts)
+
+- [Donaukanaltreiben 2016 - Free Music](https://ottersandweasels.com/posts/donaukanaltreiben-2016/) — 2016-05-26
+- [Poolinale 2016 - Music Film Festival](https://ottersandweasels.com/posts/poolinale-2016-music-film-festival/) — 2016-04-02
+- [Impulstanz Festival Partys](https://ottersandweasels.com/posts/impulstanz-festival-partys/) — 2015-07-31
+- [Donaukanaltreiben Live Music for Free](https://ottersandweasels.com/posts/donaukanaltreiben-live-music-for-free/) — 2015-05-29
+- [Party at Enso Caffe Bar](https://ottersandweasels.com/posts/party-at-enso-caffe-bar/) — 2015-05-17
+- [Donaufestival 2015 - redifining arts](https://ottersandweasels.com/posts/donaufestival-2015-redifining-arts/) — 2015-04-22
+- [OttersAndWeasels Party #5 - Spring is coming](https://ottersandweasels.com/posts/ottersandweasels-party-5-spring-is-coming/) — 2015-03-12
+- [OttersandWeasels - Winter Delights Party](https://ottersandweasels.com/posts/ottersandweasels-winter-delights-party/) — 2014-12-16
+- [OttersAndWeasels Autumn Delights Party #2](https://ottersandweasels.com/posts/ottersandweasels-autumn-delights-party-2/) — 2014-11-11
+- [OttersAndWeasels Autumn Delights Party](https://ottersandweasels.com/posts/ottersandweasels-autumn-delights-party/) — 2014-09-26
+- [WAVES FILM FEST 2014](https://ottersandweasels.com/posts/waves-film-fest-2014/) — 2014-09-24
+- [Off to the WARP25 Party](https://ottersandweasels.com/posts/warp25-party/) — 2014-09-19
+- [BigSmoke Music Session](https://ottersandweasels.com/posts/bigsmoke-music-session/) — 2014-09-08
+- [James Murphy in the House - RBMA Session Vienna](https://ottersandweasels.com/posts/james-murphy-vienna/) — 2014-03-02
+
+## Artist (13 posts)
+
+- [Hot Sugar - a little gem of a beatmaker](https://ottersandweasels.com/posts/hot-sugar-a-little-gem-of-a-beatmaker/) — 2019-04-27
+- [Louie Austen at Waves Vienna Music Festival 2017 - Win Tickets!](https://ottersandweasels.com/posts/louie-austen-concert-waves-vienna-music-festival-2017-win-tickets/) — 2017-09-20
+- [Anderson .Paak joins Gospel Choir in new video](https://ottersandweasels.com/posts/anderson-paak-joins-gospel-choir-in-new-video/) — 2017-02-09
+- [Aphex Twin Tracks Free Download](https://ottersandweasels.com/posts/aphex-twin-tracks-free-download/) — 2015-05-09
+- [Eurovision ESC2015 Folkshilfe](https://ottersandweasels.com/posts/eurovision-esc2015-folkshilfe/) — 2015-03-08
+- [Swag Swag Swag Crack Ignaz - new EP](https://ottersandweasels.com/posts/swag_crack-ignaz_new_ep/) — 2015-01-06
+- [Concert - Peter Weibel & Hotel Morphila Orchester at 21er Haus](https://ottersandweasels.com/posts/peter-weibel-concert-hotel-morphila-orchester-21er-haus/) — 2015-01-06
+- [Stream the new Dorian Concept Record - Joined Ends](https://ottersandweasels.com/posts/stream-new-dorian-concept-record/) — 2014-10-13
+- [Waves Vienna Music Festival - Day2+Day3](https://ottersandweasels.com/posts/waves-vienna-music-festival-day2day3/) — 2014-10-07
+- [Seekae - The Worry](https://ottersandweasels.com/posts/seekae-the-worry/) — 2014-10-01
+- [on the rise - SZA](https://ottersandweasels.com/posts/on-the-rise-sza/) — 2014-05-14
+- [between music and silence](https://ottersandweasels.com/posts/music-silence/) — 2014-04-20
+- [A musical genius called Binkbeats](https://ottersandweasels.com/posts/binkbeats-a-musical-genius/) — 2014-02-12
+
+## Fresh Music (12 posts)
+
+- [Scandinavian fresh music - Albin Gromer - perfect spring music](https://ottersandweasels.com/posts/scandinavian-fresh-music-albin-gromer-perfect-spring-music/) — 2018-04-18
+- [We present: CIRCUITS by Koronis - experimental electronics & classical music](https://ottersandweasels.com/posts/present-circuits-koronis-experimental-electronics-classical-music/) — 2017-05-13
+- [Fresh music by Denzel Curry - Yoke Lore - Manor](https://ottersandweasels.com/posts/fresh-music-denzel-curry-yoke-lore-manor/) — 2016-05-09
+- [Listen to Another Round podcast with Heben and Tracy](https://ottersandweasels.com/posts/listen-another-round-podcast-heben-tracy/) — 2016-04-20
+- [3421 and Left - cool new music](https://ottersandweasels.com/posts/3421-and-left-cool-new-music/) — 2016-02-22
+- [New Track from TOKiMONSTA feat. Anderson .Paak](https://ottersandweasels.com/posts/tokimonsta-feat-anderson-paak/) — 2016-02-20
+- [Songexploder - Your favorite Bands explain their songs](https://ottersandweasels.com/posts/songexploder-your-favorite-bands-explain-their-songs/) — 2015-12-09
+- [Abby Lee Tee - skippin thru tarka t.o. NEW VIDEO](https://ottersandweasels.com/posts/abby-lee-tee-skippin-thru-tarka-t-o-new-video/) — 2015-11-12
+- [A$AP ROCKY new record is out](https://ottersandweasels.com/posts/asap-rocky-new-record-is-out/) — 2015-05-26
+- [New Album by Penguin Prison - Lost in New York](https://ottersandweasels.com/posts/new-album-by-penguin-prison-lost-in-new-york/) — 2015-05-13
+- [NEW Ep by Sleep Sleep coming up](https://ottersandweasels.com/posts/new-ep-by-sleep-sleep-coming-up/) — 2015-04-10
+- [Fresh Music - Watch out for Sasquatch](https://ottersandweasels.com/posts/fresh-music-watch-out-for/) — 2014-11-08
+
+## Art (10 posts)
+
+- [Ars Electronica Festival 2017 Linz](https://ottersandweasels.com/posts/ars-electronica-festival-2017-linz/) — 2017-09-11
+- [Ars Electronica Media Art Festival 2016 in Linz - free Concerts](https://ottersandweasels.com/posts/ars-electronica-media-art-festival-2016-in-linz/) — 2016-09-07
+- [Prince - the Stories](https://ottersandweasels.com/posts/prince-the-stories/) — 2016-04-29
+- [Donaufestival 2016 - redefining arts](https://ottersandweasels.com/posts/donaufestival-2016/) — 2016-04-22
+- [The essence 2015 - art university exhibition](https://ottersandweasels.com/posts/the-essence-2015-art-university-exhibition/) — 2015-06-24
+- [Unsafe+Sounds Festival 2015](https://ottersandweasels.com/posts/unsafesounds-festival-2015/) — 2015-06-08
+- [HMS Bounty - pre-opening of palme13, Schwendermarkt](https://ottersandweasels.com/posts/hms-bounty-pre-opening-of-palme13-schwendermarkt/) — 2015-06-04
+- [Inquietudo - New Film Festival in Town - 26-31 May](https://ottersandweasels.com/posts/inquietudo-film-festival-vienna-26-31-may/) — 2015-05-26
+- [Arts Recrafted - Printa Wien - Exhibition Opening](https://ottersandweasels.com/posts/arts-recrafted-printa-exhibition/) — 2015-03-07
+- [you never do it for the money - creative processes](https://ottersandweasels.com/posts/never-do-it-for-the-money-creative-process/) — 2014-05-19
+
+## Best Of (6 posts)
+
+- [it's been a while - Best of January 2016](https://ottersandweasels.com/posts/its-been-a-while-best-of-january/) — 2016-02-10
+- [Best of May and June 2015](https://ottersandweasels.com/posts/best-of-may-and-june-2015/) — 2015-07-11
+- [Best of 2014](https://ottersandweasels.com/posts/best-of-2014/) — 2014-12-31
+- [OttersAndWeasels - Summer Delights #1- Party](https://ottersandweasels.com/posts/summer-delights-1-party/) — 2014-07-17
+- [Best of 2013 - the Weasel selection](https://ottersandweasels.com/posts/best-2013-weasel-selection-2/) — 2013-12-31
+- [BEST OF 2013 - Otter's HITS](https://ottersandweasels.com/posts/otters/) — 2013-12-31
+
+## Esc2015 (5 posts)
+
+- [Eurovision unofficial+official final results](https://ottersandweasels.com/posts/eurovision-unofficial-final-results/) — 2015-05-24
+- [ESC Eurovision semifinal results and new favorites](https://ottersandweasels.com/posts/esc-eurovision-semifinal-results-and-new-favorites/) — 2015-05-22
+- [ESC Eurovision final rehearsal impressions](https://ottersandweasels.com/posts/esc-eurovision-final-rehearsal-impressions/) — 2015-05-22
+- [ESC Eurovision 2015 Who's gonna win?](https://ottersandweasels.com/posts/esc-eurovision-2015-whos-gonna-win/) — 2015-05-18
+- [The Makemakes will represent Austria at the Eurovision Songcontest](https://ottersandweasels.com/posts/the-makemakes-represent-austria-eurovision-songcontest/) — 2015-03-14
+
+## Selection (5 posts)
+
+- [OttersAndWeasels May selection](https://ottersandweasels.com/posts/ottersandweasels-may-selection/) — 2014-06-15
+- [OttersAndWeasels April selection](https://ottersandweasels.com/posts/ottersandweasels-april-selection/) — 2014-05-11
+- [OttersAndWeasels March selection](https://ottersandweasels.com/posts/ottersandweasels-march-selection/) — 2014-04-06
+- [OttersAndWeasels February Selection](https://ottersandweasels.com/posts/ottersandweasels-february-selection/) — 2014-03-07
+- [OttersAndWeasels January Selection](https://ottersandweasels.com/posts/ottersandweasels-january-selection/) — 2014-02-01
+
+## Movies (3 posts)
+
+- [Mike Skinner Q & A - Hip Hop in the holy land](https://ottersandweasels.com/posts/mike-skinner-q-a-hip-hop-in-the-holy-land/) — 2015-10-03
+- [Twenty Feet From Stardom](https://ottersandweasels.com/posts/twenty-feet-from-stardom/) — 2014-03-23
+- [her - a spike jonze love story](https://ottersandweasels.com/posts/her-spike-jonze-love-story/) — 2014-02-09
+
+## News (3 posts)
+
+- [HitRecord - crowdsourced art and music](https://ottersandweasels.com/posts/hitrecord-crowdsourced-music/) — 2014-01-25
+- [EUROSONIC NOORDERSLAG 2014](https://ottersandweasels.com/posts/eurosonic-noorderslag-2014/) — 2014-01-15
+- [Hello peeps](https://ottersandweasels.com/posts/hello-world/) — 2013-12-06
+
+## Other (3 posts)
+
+- [Popfest 2018](https://ottersandweasels.com/posts/popfest-2018/) — 2018-07-26
+- [Silvester Party Guide for Vienna](https://ottersandweasels.com/posts/silvester-party-guide-vienna/) — 2014-12-30
+- [Our Song of the Year 2014 - Mapei - Don't wait](https://ottersandweasels.com/posts/song-year-2014-mapei-dont-wait/) — 2014-12-18
+
+## Festivals (3 posts)
+
+- [Sziget Festival 2017 in Budapest coming up](https://ottersandweasels.com/posts/sziget-festival-2017-budapest-coming/) — 2017-04-22
+- [MENT Festival 2016 in Ljubljana](https://ottersandweasels.com/posts/ment-festival-2016-in-ljubljana/) — 2016-02-02
+- [Waves Central Europe Music Festival 2015](https://ottersandweasels.com/posts/waves-central-europe-music-festival-2015/) — 2015-09-27
+
+## Party (2 posts)
+
+- [Slow Tacos DJ Sets](https://ottersandweasels.com/posts/slow-tacos-dj-sets/) — 2015-06-12
+- [OttersAndWeasels Party #6 - Spring is here](https://ottersandweasels.com/posts/ottersandweasels-party-6-spring-is-here/) — 2015-04-20
+
+## Records (1 posts)
+
+- [LISTEN AND DISCOVER - Sharks in space](https://ottersandweasels.com/posts/listen-discover-sharks-in-space/) — 2014-04-24
+
+## Elsewhere
+
 - Spotify: https://open.spotify.com/user/ottersandweasels
-
-## Technical
-
-Static Hugo site, no tracking, no cookies. Content licensed for reading and
-quoting with attribution.

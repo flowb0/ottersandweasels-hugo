@@ -18,7 +18,7 @@ A lot of bidding is already going on who's gonna win this year and to make it ea
 ## The Contestants of the ESC2015
 Since a few years the the Big 5 have always a fixed starting position in the main event (cause they pay the most money to the EBU Organization, which produces the Event) and the winner of the last year (=Austria). All the other countries have to compete in a semifinal show to get voted to the final show.
 
-[![esc eurovision 2015 contestants](/images/uploads/2015/05/esc-eurovision-2015-contestants-253x300.png)](https://www.ottersandweasels.com/wp-content/uploads/2015/05/esc-eurovision-2015-contestants.png)
+[![esc eurovision 2015 contestants](/images/uploads/2015/05/esc-eurovision-2015-contestants-253x300.png)](/images/uploads/2015/05/esc-eurovision-2015-contestants.png)
 
 Running order
 ### Playlist of contestants for the Part1 of the Semifinal

@@ -1,4 +1,5 @@
 ---
+description: "About Otters and Weasels: a bunch of music lovers from Vienna writing since 2013 about concerts, records and the Austrian music scene."
 title: "About"
 date: 2013-12-06T20:39:51
 author: "ottersandweasels"
@@ -30,7 +31,7 @@ office {at} ottersandweasels (dot) com  with "promo" in the title.
 
  
 
-[![logo](/images/uploads/2013/12/logo3-300x285.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2013/12/logo3.jpg)
+[![logo](/images/uploads/2013/12/logo3-300x285.jpg)](/images/uploads/2013/12/logo3.jpg)
 
  
 

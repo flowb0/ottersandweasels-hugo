@@ -1,0 +1,55 @@
+{{- /*
+  SEO/GEO head block. Description: front matter description → post summary (cleaned) →
+  category line → site seoDescription. Share image: post `image` → site default.
+  Tag archives (268 thin pages) and paginated home pages are noindex.
+*/ -}}
+{{- $desc := site.Params.seoDescription -}}
+{{- if .Description -}}
+  {{- $desc = .Description -}}
+{{- else if .IsPage -}}
+  {{- with .Summary | plainify | htmlUnescape | replaceRE `[*_#>]+` "" | replaceRE `\s+` " " | strings.TrimSpace }}{{ $desc = . }}{{ end -}}
+{{- else if and (eq .Kind "term") (eq .Data.Plural "categories") -}}
+  {{- $desc = printf "%s on Otters and Weasels, the music blog from Vienna: all posts in this category." (.Title | title) -}}
+{{- end -}}
+{{- $desc = $desc | truncate 160 -}}
+
+{{- $noindex := and (in (slice "taxonomy" "term") .Kind) (eq .Data.Plural "tags") -}}
+{{- if and .IsHome (gt .Paginator.PageNumber 1) }}{{ $noindex = true }}{{ end -}}
+
+{{- $img := .Params.image | default (index site.Params.images 0) -}}
+{{- $imgDims := dict -}}
+{{- if fileExists (printf "static%s" $img) }}{{ $imgDims = imageConfig (printf "static%s" $img) }}{{ end -}}
+{{- $title := cond .IsHome site.Title (printf "%s – Otters and Weasels" .Title) -}}
+
+  <title>{{ $title }}</title>
+  <meta name="description" content="{{ $desc }}">
+  <meta name="robots" content="{{ if $noindex }}noindex, follow{{ else }}index, follow, max-image-preview:large, max-snippet:-1{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="alternate" hreflang="{{ .Params.htmlLang | default "en" }}" href="{{ .Permalink }}">
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+
+  <meta property="og:site_name" content="Otters and Weasels">
+  <meta property="og:locale" content="{{ if eq .Params.htmlLang "de" }}de_AT{{ else }}en_US{{ end }}">
+  <meta property="og:title" content="{{ .Title | default site.Title }}">
+  <meta property="og:description" content="{{ $desc }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if and .IsPage (eq .Section "posts") }}article{{ else }}website{{ end }}">
+  <meta property="og:image" content="{{ $img | absURL }}">
+  {{- with $imgDims }}
+  <meta property="og:image:width" content="{{ .Width }}">
+  <meta property="og:image:height" content="{{ .Height }}">
+  {{- end }}
+  <meta property="og:image:alt" content="{{ .Title | default site.Title }}">
+  {{- if and .IsPage (eq .Section "posts") }}
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+  {{- with .Params.categories }}<meta property="article:section" content="{{ index . 0 }}">{{ end }}
+  {{- range first 6 (.Params.tags | default slice) }}
+  <meta property="article:tag" content="{{ . }}">
+  {{- end }}
+  {{- end }}
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ .Title | default site.Title }}">
+  <meta name="twitter:description" content="{{ $desc }}">
+  <meta name="twitter:image" content="{{ $img | absURL }}">

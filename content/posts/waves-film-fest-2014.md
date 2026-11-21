@@ -14,7 +14,7 @@ But now to something completely different:
 ## the Movies:
 There is a focus on the work of british filmmaker [**Jonathan Glazer**](http://bit.ly/1rHMT1e), he did also some music videos for Nick Cave, Blur, Massive Attack or Jamiroquai. His latest work was the movie "Under the Skin" with Scarlett Johansson.
 
-[![under the skin movie poster](/images/uploads/2014/09/under_the_skin-1024x550.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2014/09/under_the_skin.jpg)
+[![under the skin movie poster](/images/uploads/2014/09/under_the_skin-1024x550.jpg)](/images/uploads/2014/09/under_the_skin.jpg)
 
 You might heard of it. The one where she kills a lot of guys.
 
@@ -22,7 +22,7 @@ All his three movies "Birth", "Sexy Beast" and "Under the Skin" will be shown a
 
 The **"Sexy Beast"** poster looks quite promising.
 
-[![sexy beasts movie poster](/images/uploads/2014/09/sexy-beast1-1024x576.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2014/09/sexy-beast1.jpg)
+[![sexy beasts movie poster](/images/uploads/2014/09/sexy-beast1-1024x576.jpg)](/images/uploads/2014/09/sexy-beast1.jpg)
 
  
 

@@ -12,13 +12,13 @@ A giant wave was hitting the Danube metropolis last weekend! It's the time of th
 
 A fulminant start of the Waves Vienna festival 2014! First of all, our two favorite concerts on Thursday were [Y'Akoto](http://www.yakoto.de/) at Porgy & Bess
 
-[![IMG_1706](/images/uploads/2014/10/IMG_1706-1024x682.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2014/10/IMG_1706.jpg)
+[![IMG_1706](/images/uploads/2014/10/IMG_1706-1024x682.jpg)](/images/uploads/2014/10/IMG_1706.jpg)
 
  
 
 and [Jonathan](https://jonathan3.bandcamp.com/releases) at Elysium. We opened the night at the Swiss reception at Xpedit Lager with a good start in the evening by The Animen. After some refreshment it was time to head over to Porgy & Bess. Y'akoto just gave a perfect display of her talent with her equally skillful band plus they got a sound engineer behind the mixer who knew his shit. It was fun, it was happy, it was funky & sexy & fresh. Next up right after Y'akoto was KWABS. The hype machine was already running wild with this one. He didn't really fulfill our expectations. I think he was a bit ill, drinking tea instead of sippin' on gin & juice :) Anyway, still a very decent show. Right after that we checked out the new (at least for us it was new) location Elysium in the heart of the first district. A maze of catacombs with 2 and a half floors for live music. I didn't expect that much space for a basement concert venue like 200m away from Stephansplatz. So that was quite a surprise. The sound is not too good and cannot compete with Alte Post, or Porgy & Bess. We watched an interesting band from Israel called Soda Fabric. Very energetic and clearly the coolest Bass Player so far. Then we checked out the second floor to see [Jonathan](http://jonathan3.bandcamp.com/releases).
 
-[![IMG_1892](/images/uploads/2014/10/IMG_1892-1024x682.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2014/10/IMG_1892.jpg)
+[![IMG_1892](/images/uploads/2014/10/IMG_1892-1024x682.jpg)](/images/uploads/2014/10/IMG_1892.jpg)
 
 And they were just brilliant. The first song we heard reminded me a bit of At the Drive in and some other parts could be taken from the National. In my opinion they came close to Y'akotos band and were technically almost perfect. You could hear that they have spent a lot of time in the rehearsing room to perfect their skills. I would definitely watch them again. Watch out for them.
 
@@ -32,7 +32,7 @@ Out of my passion for listening to the radio while I'm taking a shower or cookin
 
 So after this hot action at Porgy & Bess the next Warner star entered the stage KWABS, who performed very solid, also keeping the soul high, but definitely more in the dance direction. Sadly we saw he needed to get a constant refill of ginger-infusion, so we assume he was not at his fullest strength. He kind of reminded me also of classical musical stars. really performing on the second, somewhere between the Lion King and James Blake's Fallin fallin. Sadly we couldn't see the drummer because very much in the darkness. The Arctic Monkey cover of callin back to you was amazing, the african influences of weguewegue were very nice and fresh. Especially as this movement started in London, where the singer is coming from.
 
-[![IMG_1709](/images/uploads/2014/10/IMG_1709-1024x682.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2014/10/IMG_1709.jpg)
+[![IMG_1709](/images/uploads/2014/10/IMG_1709-1024x682.jpg)](/images/uploads/2014/10/IMG_1709.jpg)
 
 After this banger we hopped on our bikes to get back to the ancient place - ausgrabung, the elysium. The amazing band Jonathan just blew our minds - not only because if the singer's red shoes but this band really knows there stuff!
 

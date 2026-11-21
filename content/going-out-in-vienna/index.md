@@ -1,4 +1,5 @@
 ---
+description: "Going out in Vienna: our guide to clubs, concert venues and places to hear live music in Vienna – tips from a local music blog."
 title: "Going out in Vienna"
 date: 2015-04-10T19:38:55
 author: "wayne weasel"

@@ -1,4 +1,5 @@
 ---
+description: "Otters and Weasels on Spotify: our playlists with fresh music, concert tips and favourites from the Vienna music blog."
 title: "OttersAndWeasels on Spotify"
 date: 2016-09-02T22:26:30
 author: "wayne weasel"

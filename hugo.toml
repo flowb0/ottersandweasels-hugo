@@ -1,11 +1,14 @@
 baseURL = "https://ottersandweasels.com/"
-languageCode = "en-us"
+languageCode = "en"
 enableRobotsTXT = true
 title = "Otters and Weasels - a Music Blog"
 theme = "ottersandweasels"
 
 [params]
   description = "we write about music n stuff - music blog from Vienna"
+  # SEO/GEO
+  seoDescription = "Otters and Weasels is a music blog from Vienna (since 2013): concert tips and reviews, festivals, new releases, videos and going-out tips for Vienna's music scene."
+  sameAs = ["https://open.spotify.com/user/ottersandweasels"]
   author = "ottersandweasels"
   spotifyUrl = "https://open.spotify.com/user/ottersandweasels"
   headerImage = "/images/uploads/2016/06/otterweasellogo_wordpress.jpg"

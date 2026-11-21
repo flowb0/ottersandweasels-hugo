@@ -26,7 +26,7 @@ And unfortunately playing at the same time:
 ### [The Intergalactic Lovers](http://donaukanaltreiben.at/location/intergalactic-lovers/)
 , playing 19:00 at Salztorbrücke.
 
-If you are more into some upbeat pop/rock with an totally incredible singer, WATCH THEM. They were one of our favorits [from Waves Festival 2014](https://www.ottersandweasels.com/waves-vienna-music-festival-day2day3/)
+If you are more into some upbeat pop/rock with an totally incredible singer, WATCH THEM. They were one of our favorits [from Waves Festival 2014](/posts/waves-vienna-music-festival-day2day3/)
 
 {{< youtube "7pVFWQkJ9HU" >}}
 

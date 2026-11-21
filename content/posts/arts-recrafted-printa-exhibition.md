@@ -22,7 +22,7 @@ We recommend to check out the exhibition opening of the "arts recrafted" competi
 
  
 
-[![Print](/images/uploads/2015/03/stil-fischer-01-212x300.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2015/03/stil-fischer-01.jpg)
+[![Print](/images/uploads/2015/03/stil-fischer-01-212x300.jpg)](/images/uploads/2015/03/stil-fischer-01.jpg)
 
 Arts Recrafted Exhibition Opening
 

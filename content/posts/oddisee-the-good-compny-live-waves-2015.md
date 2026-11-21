@@ -21,8 +21,8 @@ if you wanna get the new record now :) -> [here it is](https://geo.itunes.apple.
 
 and some pics too:
 
-[![Oddisee](/images/uploads/2015/10/P10902301-200x300.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2015/10/P10902301.jpg)
+[![Oddisee](/images/uploads/2015/10/P10902301-200x300.jpg)](/images/uploads/2015/10/P10902301.jpg)
 
-[![P1090228](/images/uploads/2015/10/P1090228-300x200.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2015/10/P1090228.jpg) [![P1090229](/images/uploads/2015/10/P1090229-300x200.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2015/10/P1090229.jpg)
+[![P1090228](/images/uploads/2015/10/P1090228-300x200.jpg)](/images/uploads/2015/10/P1090228.jpg) [![P1090229](/images/uploads/2015/10/P1090229-300x200.jpg)](/images/uploads/2015/10/P1090229.jpg)
 
-[![IMG_4286](/images/uploads/2015/10/IMG_4286-300x225.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2015/10/IMG_4286.jpg) [![IMG_4284](/images/uploads/2015/10/IMG_4284-300x225.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2015/10/IMG_4284.jpg) [![Oddisee Live](/images/uploads/2015/10/IMG_4281-300x225.jpg)](https://www.ottersandweasels.com/wp-content/uploads/2015/10/IMG_4281.jpg)
+[![IMG_4286](/images/uploads/2015/10/IMG_4286-300x225.jpg)](/images/uploads/2015/10/IMG_4286.jpg) [![IMG_4284](/images/uploads/2015/10/IMG_4284-300x225.jpg)](/images/uploads/2015/10/IMG_4284.jpg) [![Oddisee Live](/images/uploads/2015/10/IMG_4281-300x225.jpg)](/images/uploads/2015/10/IMG_4281.jpg)

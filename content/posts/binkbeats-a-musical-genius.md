@@ -13,11 +13,11 @@ I just discovered one of his latest YouTube videos: "BINKBEATS Beats Unraveled #
 
 [Caribou](https://twitter.com/caribouband), Four Tet and Martyn are just jumping on the hype machine to promote the guy, so we thought we also hop an that train.
 
-[![Binkbeats pushed by Caribou](/images/uploads/2014/02/Screenshot-2014-02-12-14.10.58-300x261.png)](https://www.ottersandweasels.com/wp-content/uploads/2014/02/Screenshot-2014-02-12-14.10.58.png)
+[![Binkbeats pushed by Caribou](/images/uploads/2014/02/Screenshot-2014-02-12-14.10.58-300x261.png)](/images/uploads/2014/02/Screenshot-2014-02-12-14.10.58.png)
 
  
 
-[![Four tet and Martyn pushing binkbeats](/images/uploads/2014/02/Screenshot-2014-02-12-14.20.46-300x117.png)](https://www.ottersandweasels.com/wp-content/uploads/2014/02/Screenshot-2014-02-12-14.20.46.png)
+[![Four tet and Martyn pushing binkbeats](/images/uploads/2014/02/Screenshot-2014-02-12-14.20.46-300x117.png)](/images/uploads/2014/02/Screenshot-2014-02-12-14.20.46.png)
 
 And Binkbeats really deserves it. Put that guy on a tour because I really wanna see him perform live.
 

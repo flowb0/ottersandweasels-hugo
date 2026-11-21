@@ -753,3 +753,10 @@ img {
     font-size: 1.2rem;
   }
 }
+
+/* Home page: logo wrapped in H1 for SEO — must not change the layout */
+.logo-h1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 0;
+}

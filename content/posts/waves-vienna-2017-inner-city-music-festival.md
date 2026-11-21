@@ -17,7 +17,7 @@ On of the coolest aspect of the Waves Vienna are the new venues they always find
 
  
 ## Headliners of Waves Vienna 2017
-This years headliners are Clap Your Hands Say Yeah (US), Forest Swords (UK), Wandl (AT) and [Louie Austen (AT) ->check out our interview with Louie here :)](https://www.ottersandweasels.com/louie-austen-concert-waves-vienna-music-festival-2017-win-tickets/)
+This years headliners are Clap Your Hands Say Yeah (US), Forest Swords (UK), Wandl (AT) and [Louie Austen (AT) ->check out our interview with Louie here :)](/posts/louie-austen-concert-waves-vienna-music-festival-2017-win-tickets/)
 
 We haven't heard for a while from Clap your hands say yeah, but I guess it will be a must see for us old indie fans.
 
